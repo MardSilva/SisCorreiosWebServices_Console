@@ -1,0 +1,6 @@
+C:\Users\eymard.silva\Documents\SharpDevelop Projects\SisCorreios_Console\SisCorreios_Console\bin\Debug\SisCorreios_Console.exe.config
+C:\Users\eymard.silva\Documents\SharpDevelop Projects\SisCorreios_Console\SisCorreios_Console\bin\Debug\SisCorreios_Console.exe
+C:\Users\eymard.silva\Documents\SharpDevelop Projects\SisCorreios_Console\SisCorreios_Console\bin\Debug\SisCorreios_Console.pdb
+C:\Users\eymard.silva\Documents\SharpDevelop Projects\SisCorreios_Console\SisCorreios_Console\obj\Debug\SisCorreios_Console.csprojResolveAssemblyReference.cache
+C:\Users\eymard.silva\Documents\SharpDevelop Projects\SisCorreios_Console\SisCorreios_Console\obj\Debug\SisCorreios_Console.exe
+C:\Users\eymard.silva\Documents\SharpDevelop Projects\SisCorreios_Console\SisCorreios_Console\obj\Debug\SisCorreios_Console.pdb
