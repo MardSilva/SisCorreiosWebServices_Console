@@ -13,3 +13,4 @@ Projeto de WebServices - Console feito no SharpDevelop :fish:
     - [ ] Implementar versão com várias opções do webservices. :construction:
     
 - Versão atual: 1.2.0 :recycle:
+- Nova versão: 2.2.0 | Executável - 1.8.0 :recycle:
